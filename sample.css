@@ -1,0 +1,13 @@
+.main-section p {
+    background: purple;
+    margin: 5px;
+}
+
+#main-section p {
+    background: hotpink;
+    margin: 5px;
+}
+
+section .lorem {
+    background: green;
+}
